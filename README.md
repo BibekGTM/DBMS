@@ -26,7 +26,7 @@ To host this project on GitHub Pages:
 1. Fork this repository.
 2. Enable GitHub Pages in the repository settings.
 3. Set the source to the `main` branch.
-4. This site will be available at `https://bibekgtm.github.io/DBMS/`.
+4. Your site will be available at `https://<your-username>.github.io/<repository-name>/`.
 
 ## Contributing
 
