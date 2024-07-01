@@ -12,21 +12,6 @@ This project is designed to host and display my daily computer assignments on a 
 - **Organized Structure**: Assignments are organized in a clear and structured manner.
 - **GitHub Hosting**: The project is hosted on GitHub Pages for easy access and sharing.
 
-## Project Structure
-
-The project is organized as follows:
-
-├── index.html # Main page with links to all assignments 
-├── assignments # Directory containing all assignment HTML files
-│ ├── assignment1.html
-│ ├── assignment2.html
-│ ├── assignment3.html
-│ └── ... # Additional assignments
-├── css # Directory containing CSS files
-│ └── styles.css # Main stylesheet
-└── README.md # This file
-
-
 ## Usage
 
 To view the assignments:
@@ -41,7 +26,7 @@ To host this project on GitHub Pages:
 1. Fork this repository.
 2. Enable GitHub Pages in the repository settings.
 3. Set the source to the `main` branch.
-4. Your site will be available at `https://<your-username>.github.io/<repository-name>/`.
+4. This site will be available at `https://bibekgtm.github.io/DBMS/`.
 
 ## Contributing
 
