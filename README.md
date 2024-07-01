@@ -16,7 +16,6 @@ This project is designed to host and display my daily computer assignments on a 
 
 The project is organized as follows:
 
-.
 ├── index.html # Main page with links to all assignments
 ├── assignments # Directory containing all assignment HTML files
 │ ├── assignment1.html
